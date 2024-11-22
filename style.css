@@ -1,0 +1,25 @@
+#form-editor {
+    display: grid;
+    grid-template-columns: 200px;
+    grid-gap: 10px;
+    background-color: white;
+    padding: 30px;
+}
+
+body {
+    background-color: rgb(241, 241, 241);
+    padding: 25px;
+    display: flex;
+    margin: 0;
+}
+
+.resultado .btn {
+    margin-left: 10%;
+}
+
+label {
+    display: block;
+}
+input {
+    display: block;
+}
